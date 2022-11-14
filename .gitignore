@@ -1,10 +1,11 @@
 ### CodeBlocks ###
 # specific to CodeBlocks IDE
-*.layout
-*.depend
+ksiazkaAdresowaObiektowo.*
+
 # generated directories
 bin/
 obj/
+plan/
 
 # Project
 *.txt
