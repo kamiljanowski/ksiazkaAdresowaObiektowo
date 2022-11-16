@@ -2,6 +2,8 @@
 # specific to CodeBlocks IDE
 ksiazkaAdresowaObiektowo.*
 nowakowski.cpp
+.gitignore
+
 
 # generated directories
 bin/
