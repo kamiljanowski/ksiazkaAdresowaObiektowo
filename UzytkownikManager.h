@@ -1,3 +1,6 @@
+#ifndef UZYTKOWNIKMANAGER_H
+#define UZYTKOWNIKMANAGER_H
+
 #include <iostream>
 #include <vector>
 #include <windows.h>
@@ -5,6 +8,7 @@
 #include <sstream>
 
 #include "Uzytkownik.h"
+#include "PlikZUzytkownikami.h"
 
 using namespace std;
 
@@ -17,9 +21,10 @@ class UzytkownikManager
     int pobierzIdNowegoUzytkownika();
     bool czyIstniejeLogin(string login);
     void dopiszUzytkownikaDoPliku(Uzytkownik uzytkownik);
-    string zamienDaneUzytkownikaNaLinieZDanymiOddzielonaPionowymiKreskami(Uzytkownik uzytkownik);
 
 public:
     void rejestracjaUzytkownika ();
     void wypiszWszystkichUzytkownikow();
 };
+
+#endif
