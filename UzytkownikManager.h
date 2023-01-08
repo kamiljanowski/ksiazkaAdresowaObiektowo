@@ -20,7 +20,7 @@ class UzytkownikManager
     Uzytkownik podajDaneNowegoUzytkownika();
     int pobierzIdNowegoUzytkownika();
     bool czyIstniejeLogin(string login);
-    void dopiszUzytkownikaDoPliku(Uzytkownik uzytkownik);
+    PlikZUzytkownikami plikZUzytkownikami;
 
 public:
     void rejestracjaUzytkownika ();
