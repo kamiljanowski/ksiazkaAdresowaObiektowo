@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1675028987 source:c:\cpp\ksiazkaadresowaobiektowo\main.cpp
+1675110624 source:c:\cpp\ksiazkaadresowaobiektowo\main.cpp
 	<iostream>
 	"KsiazkaAdresowa.h"
 
-1673009909 source:c:\cpp\ksiazkaadresowaobiektowo\ksiazkaadresowa.cpp
+1675030736 source:c:\cpp\ksiazkaadresowaobiektowo\ksiazkaadresowa.cpp
 	"KsiazkaAdresowa.h"
 
 1669583930 source:c:\cpp\ksiazkaadresowaobiektowo\uzytkownik.cpp
@@ -32,10 +32,10 @@
 	"Uzytkownik.h"
 	"PlikZUzytkownikami.h"
 
-1673217002 source:c:\cpp\ksiazkaadresowaobiektowo\uzytkownikmanager.cpp
+1675030736 source:c:\cpp\ksiazkaadresowaobiektowo\uzytkownikmanager.cpp
 	"UzytkownikManager.h"
 
-1675029533 c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.h
+1675111531 c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.h
 	<iostream>
 	<vector>
 	<fstream>
