@@ -25,7 +25,7 @@ class UzytkownikManager
 public:
     void rejestracjaUzytkownika ();
     void wypiszWszystkichUzytkownikow();
-    void wczytajUzytkownikowZPliku(vector <Uzytkownik> &uzytkownicy);
+    void wczytajUzytkownikowZPliku();
 };
 
 #endif
