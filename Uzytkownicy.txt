@@ -1,9 +1,4 @@
-1|Kamil|121|
-1|Pati|123|
-1|qwa|123|
-1|Azure|azure123|
-1|KION|janowski|
-2|kamil|asd|
-3|asd|sd|
-4|123|123|
-5|234|234|
+1|Kamil|123|
+2|Pati|234|
+3|Kamil2|123|
+4|Pati2|aes|
