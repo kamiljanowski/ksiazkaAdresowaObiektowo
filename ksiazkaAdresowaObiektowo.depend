@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1675028987 source:c:\cpp\ksiazkaadresowaobiektowo\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+
+1673009909 source:c:\cpp\ksiazkaadresowaobiektowo\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1669583930 source:c:\cpp\ksiazkaadresowaobiektowo\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1675028909 c:\cpp\ksiazkaadresowaobiektowo\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikManager.h"
+
+1674558479 c:\cpp\ksiazkaadresowaobiektowo\uzytkownik.h
+	<iostream>
+
+1674558479 source:c:\cpp\ksiazkaadresowaobiektowo\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+	<sstream>
+
+1674558479 c:\cpp\ksiazkaadresowaobiektowo\metodypomocnicze.h
+	<iostream>
+
+1675108334 c:\cpp\ksiazkaadresowaobiektowo\uzytkownikmanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	"Uzytkownik.h"
+	"PlikZUzytkownikami.h"
+
+1673217002 source:c:\cpp\ksiazkaadresowaobiektowo\uzytkownikmanager.cpp
+	"UzytkownikManager.h"
+
+1675029533 c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+
+1675029193 source:c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+
