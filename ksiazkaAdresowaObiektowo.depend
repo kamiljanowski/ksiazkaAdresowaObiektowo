@@ -35,7 +35,7 @@
 1675113468 source:c:\cpp\ksiazkaadresowaobiektowo\uzytkownikmanager.cpp
 	"UzytkownikManager.h"
 
-1675111531 c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.h
+1675205255 c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.h
 	<iostream>
 	<vector>
 	<fstream>
@@ -43,6 +43,6 @@
 	"Uzytkownik.h"
 	"MetodyPomocnicze.h"
 
-1675111483 source:c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.cpp
+1675205267 source:c:\cpp\ksiazkaadresowaobiektowo\plikzuzytkownikami.cpp
 	"PlikZUzytkownikami.h"
 
